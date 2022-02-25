@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @Slf4j
-public class TodolistApplication {
+public class OrderManagmentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TodolistApplication.class, args);
+		SpringApplication.run(OrderManagmentApplication.class, args);
 
 		/*User user = new User(1l,"bedran","piro",25,"bmkd");
 		Order order = new Order(1l,"book",user,Order.Category.PERSONAL);
