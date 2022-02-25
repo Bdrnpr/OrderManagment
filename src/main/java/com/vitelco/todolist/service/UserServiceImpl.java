@@ -1,6 +1,5 @@
 package com.vitelco.todolist.service;
 
-import com.vitelco.todolist.model.Task;
 import com.vitelco.todolist.model.User;
 import com.vitelco.todolist.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;

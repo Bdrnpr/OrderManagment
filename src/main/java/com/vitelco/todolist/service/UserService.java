@@ -1,6 +1,4 @@
 package com.vitelco.todolist.service;
-
-import com.vitelco.todolist.model.Task;
 import com.vitelco.todolist.model.User;
 
 import java.util.List;
