@@ -1,5 +1,3 @@
-# todolistVit
-
 # Getting Started
 
 ### Reference Documentation
