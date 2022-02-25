@@ -1,4 +1,4 @@
-package com.vitelco.todolist.model;
+package com.vitelco.OrderManagment.model;
 
 import lombok.*;
 

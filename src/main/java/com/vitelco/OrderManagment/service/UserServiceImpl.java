@@ -1,7 +1,7 @@
-package com.vitelco.todolist.service;
+package com.vitelco.OrderManagment.service;
 
-import com.vitelco.todolist.model.User;
-import com.vitelco.todolist.repository.UserRepository;
+import com.vitelco.OrderManagment.model.User;
+import com.vitelco.OrderManagment.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

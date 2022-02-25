@@ -1,4 +1,4 @@
-package com.vitelco.todolist;
+package com.vitelco.OrderManagment;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package com.vitelco.todolist.model;
+package com.vitelco.OrderManagment.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -17,11 +17,11 @@ import java.time.LocalDateTime;
 
 public class Order {
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)//otomatik id uretme
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
     private String title;
     private LocalDateTime createdDate;
-    @ManyToOne(fetch = FetchType.EAGER)//coktan bire - Eager useri cekince orderlarida cek
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "userid", nullable = false)
     private User assignedUser;
     private Category category;

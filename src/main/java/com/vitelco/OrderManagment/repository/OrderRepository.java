@@ -1,6 +1,6 @@
-package com.vitelco.todolist.repository;
+package com.vitelco.OrderManagment.repository;
 
-import com.vitelco.todolist.model.Order;
+import com.vitelco.OrderManagment.model.Order;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

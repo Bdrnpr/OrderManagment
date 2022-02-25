@@ -1,6 +1,6 @@
-package com.vitelco.todolist.service;
+package com.vitelco.OrderManagment.service;
 
-import com.vitelco.todolist.model.Order;
+import com.vitelco.OrderManagment.model.Order;
 
 import java.util.List;
 import java.util.Optional;

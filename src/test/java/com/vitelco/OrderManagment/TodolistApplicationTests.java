@@ -1,4 +1,4 @@
-package com.vitelco.todolist;
+package com.vitelco.OrderManagment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

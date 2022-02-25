@@ -1,5 +1,5 @@
-package com.vitelco.todolist.service;
-import com.vitelco.todolist.model.User;
+package com.vitelco.OrderManagment.service;
+import com.vitelco.OrderManagment.model.User;
 
 import java.util.List;
 import java.util.Optional;

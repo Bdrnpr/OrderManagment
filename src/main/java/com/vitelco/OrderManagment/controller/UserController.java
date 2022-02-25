@@ -1,8 +1,8 @@
-package com.vitelco.todolist.controller;
+package com.vitelco.OrderManagment.controller;
 
-import com.vitelco.todolist.Exception.NotFoundException;
-import com.vitelco.todolist.model.User;
-import com.vitelco.todolist.service.UserService;
+import com.vitelco.OrderManagment.Exception.NotFoundException;
+import com.vitelco.OrderManagment.model.User;
+import com.vitelco.OrderManagment.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
